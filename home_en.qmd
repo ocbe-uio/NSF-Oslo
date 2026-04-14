@@ -23,10 +23,49 @@ knitr::opts_chunk$set(eval = FALSE)
 
 <p style="font-family: times, serif; font-size:16pt; font-style:italic">
 
-🎉 **Statistics evening 09.10.2025**
+🎉 **Statistics evening 28.05.2026**
 
 </p>
 
+</b>
+
+"*Topic to be announced*" with [Anna Chaimani]{style="color:red"}
+
+<u>Program</u>:
+
+17.00 - 17.30: Pizza, sushi and beverages
+
+17.30 - 18.30: Presentation by Anna Chaimani
+
+**Place**: Department of Biostatistics (UiO), ([Auditorium 13, Domus Medica, Gaustad, Sognsvannsveien 9, 
+0372 Oslo](https://use.mazemap.com/?campusid=799&sharepoitype=identifier&sharepoi=GA01-2015&config=uio))
+
+**Speaker**: Anna Chaimani, UiO
+
+**Title**: [ TBA ]{style="color:red"}
+
+**Abstract**:
+
+TBA. </b>
+
+<br>
+
+<p style="font-family: times, serif; font-size:16pt; font-style:italic">
+
+📰 **New issue of** [***Tilfeldig gang***]{style="color:red"}
+
+</p>
+
+A new issue of TG ([no. 2, vol. 42](https://drive.google.com/file/d/1AkF1gs-_x_kYRKhUOtgYxjEomtfYAQoO/view))
+is now available on the website (in Norwegian)!
+
+<br>
+
+
+## Statistics evening and member meetings {.unnumbered}
+
+
+### 🎉 09.10.2025 
 </b>
 
 "*Multiple electoral thresholds for allocating levelling seats in national legislatures*" with [Ragnar Bang Huseby]{style="color:red"}
@@ -65,22 +104,7 @@ Typically, the thresholds are evenly spaced, while $t_1$ and $t_n$ are lower and
 We compare the current and the proposed approaches on the most recent parliamentary elections in Norway as well as simulated elections. 
 The simulations are based on a statistical model for the proportions of the political parties in Norway. The results of our investigations indicate that the proposed rule for allocating levelling seats is less sensitive to small changes in the vote share than the rule in use. </b>
 
-
 <br>
-
-<p style="font-family: times, serif; font-size:16pt; font-style:italic">
-
-📰 **New issue of** [***Tilfeldig gang***]{style="color:red"}
-
-</p>
-
-A new issue of TG ([no. 1, vol. 42](https://drive.google.com/file/d/1aIuVIb_SxhygtuARvmD5PdcaVuWJAct9/view))
-is now available on the website (in Norwegian)!
-
-<br>
-
-
-## Statistics evening and member meetings {.unnumbered}
 
 
 ### 🎉 22.05.2025 

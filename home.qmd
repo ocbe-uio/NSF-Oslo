@@ -25,64 +25,41 @@ knitr::opts_chunk$set(eval = FALSE)
 
 <p style="font-family: times, serif; font-size:16pt; font-style:italic">
 
-🎉 **Temakveld 09.10.2025**
+🎉 **Temakveld 28.05.2026**
 
 </p>
 
 </b>
 
-"*Multiple electoral thresholds for allocating levelling seats in national legislatures*" with [Ragnar Bang Huseby]{style="color:red"}
+"*Topic to be announced*" with [Anna Chaimani]{style="color:red"}
 
 <u>Program</u>:
 
 17.00 - 17.30: Pizza, sushi and beverages
 
-17.30 - 18.30: Presentation by Ragnar Bang Huseby
+17.30 - 18.30: Presentation by Anna Chaimani
 
-**Place**: Norwegian Computing Center (NR), ([Alfa-Omega room,
-Gaustadalléen 23A, 0373
-Oslo](https://www.google.com/maps/place/data=!4m2!3m1!1s0x46416de8aff21e49:0x79354ac1e7ca82b3?sa=X&ved=1t:8290&ictx=111))
+**Place**: Department of Biostatistics (UiO), ([Auditorium 13, Domus Medica, Gaustad, Sognsvannsveien 9, 
+0372 Oslo](https://use.mazemap.com/?campusid=799&sharepoitype=identifier&sharepoi=GA01-2015&config=uio))
 
-**Speaker**: Ragnar Bang Huseby, NR
+**Speaker**: Anna Chaimani, UiO
 
-**Title**: [ Multiple electoral thresholds for allocating levelling seats in national legislatures (Kan en omfordeling av utjevningsmandatene dempe fokuset på fireprosentgrensen?) ]{style="color:red"}
+**Title**: [ TBA ]{style="color:red"}
 
 **Abstract**:
 
-Electoral thresholds have been used in national parliamentary elections in various countries. 
-An electoral threshold is the minimum proportion of votes for political parties to compete for seats in the parliament. 
-Instead of using a single electoral threshold, which is common, we investigate an alternative approach based on multiple electoral thresholds.
-
-In this work, we focus on the voting system in Norway. 
-There are currently 169 seats in the Norwegian legislature. 
-Of the 169 representatives, 150 are elected from 19 constituencies such that the representatives from a given constituency are determined by the popular vote within that constituency. 
-The remaining 19 seats are levelling seats, which purpose is to achieve more proportional representation at the national level. 
-An electoral threshold of four percent applies to the levelling seats.
-
-A weakness by using a single electoral threshold for allocating the levelling seats is that a small change in the proportion of votes could yield an excessive change in the proportion of allocated seats when a party crosses the electoral threshold. 
-In order to reduce this weakness, we propose to introduce a set of multiple electoral thresholds, $t_1 < t_2 < ... < t_n$, where n is the number of levelling seats. 
-Each threshold applies to one of the levelling seats. 
-Typically, the thresholds are evenly spaced, while $t_1$ and $t_n$ are lower and greater than the current threshold of $4\%$, respectively.
-
-We compare the current and the proposed approaches on the most recent parliamentary elections in Norway as well as simulated elections. 
-The simulations are based on a statistical model for the proportions of the political parties in Norway. The results of our investigations indicate that the proposed rule for allocating levelling seats is less sensitive to small changes in the vote share than the rule in use. </b>
+TBA. </b>
 
 <br>
 
-<p style="font-family: times, serif; font-size:16pt; font-style:italic">
+
 
 📰 **Ny utgave av** [***Tilfeldig gang***]{style="color:red"}
 
 </p>
 
-En ny utgave av TG ([nr. 1 årgang 42](https://drive.google.com/file/d/1aIuVIb_SxhygtuARvmD5PdcaVuWJAct9/view))
+En ny utgave av TG ([nr. 2 årgang 42](https://drive.google.com/file/d/1AkF1gs-_x_kYRKhUOtgYxjEomtfYAQoO/view))
 ligger nå ute på nettsidene!
-
-I denne utgangen av TG kan du lese om jubilanten Håvard Rue, mannen bak INLA, som fylte 60 år tidligere i år. 
-Du kan lese om et dykk dypt ned i TG's arkiv, til bladets langt fra spede begynnelse og til stadig aktuelle debatter om statistikerens identitet. 
-Jostein Lillestøl byr dessuten på nye puslerier, denne gangen for statistikk- og/eller fugleinteresserte. 
-Fremfor alt er det likevel tid for å minnes to kjære kolleger som har gått bort, Tore Schweder og Mette Langås. 
-To dyktige fagpersoner med vidtgående engasjement, som har betydd - og vil fortsette å bety - mye for mange.
 
 <br>
 
