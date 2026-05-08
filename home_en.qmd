@@ -29,7 +29,7 @@ knitr::opts_chunk$set(eval = FALSE)
 
 </b>
 
-"*Topic to be announced*" with [Anna Chaimani]{style="color:red"}
+"*Dismantling the complexity of the evidence for healthcare interventions using network meta-analysis*" with [Anna Chaimani]{style="color:red"}
 
 <u>Program</u>:
 
@@ -42,11 +42,17 @@ knitr::opts_chunk$set(eval = FALSE)
 
 **Speaker**: Anna Chaimani, UiO
 
-**Title**: [ TBA ]{style="color:red"}
+**Title**: [ Dismantling the complexity of the evidence for healthcare interventions using network meta-analysis ]{style="color:red"}
 
 **Abstract**:
 
-TBA. </b>
+Evidence synthesis and meta-analysis have an instrumental role in medical research by allowing resolving seemingly contradictory research outcomes and establishing evidence-based practice. 
+Network meta-analysis (NMA) is an extension of pairwise meta-analysis that enables synthesizing simultaneously data on multiple interventions. 
+By combining direct and indirect evidence within a network of trials, NMA can provide inference for comparisons never evaluated in individual studies as well as estimate the relative ranking of the competing interventions. 
+This seminar will focus on recent developments in the field of NMA. 
+Specifically, using the example of COVID-19, I will introduce a new dynamic approach to NMA accompanied automation tools and software. 
+Subsequently, I will present new methods for synthesizing sparse data and detecting outlying studies. 
+Finally, I will introduce new methods and ideas for ranking interventions based not only on the summary relative effects but also on other intervention and study characteristics as well as on clinical considerations. </b>
 
 <br>
 
